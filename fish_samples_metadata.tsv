@@ -1,0 +1,195 @@
+#SampleID	BarcodeSequence	LinkerPrimerSequence	SP	family_or_tribe	type	Code	Main_Diet	Diet_Category	Location	Basin	Heb	Lat	Lon	Date	Time	T	Conductivity  	ConductivityA	Salinity	PercentO	pH
+AS98	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	BaniasFall	N	מפל_באניאס	263945	794041	31/8/2017	07:30	16.45	430	361	0.21	NaN	8.34
+AS99	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	BaniasFall	N	מפל_באניאס	263945	794041	31/8/2017	07:30	16.45	430	361	0.21	NaN	8.34
+AS100	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	BaniasFall	N	מפל_באניאס	263945	794041	31/8/2017	07:30	16.45	430	361	0.21	NaN	8.34
+AS105	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	BaniasReserveUp	N	שמורת_באניאס_בריכות	265117	794850	31/8/2017	10:00	15.38	428	350	0.21	NaN	9
+AS106	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	BaniasReserveUp	N	שמורת_באניאס_בריכות	265117	794850	31/8/2017	10:00	15.38	428	350	0.21	NaN	9
+AS107	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	BaniasReserveUp	N	שמורת_באניאס_בריכות	265117	794850	31/8/2017	10:00	15.38	428	350	0.21	NaN	9
+AS108	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	BaniasReserveUp	N	שמורת_באניאס_בריכות	265117	794850	31/8/2017	10:00	15.38	428	350	0.21	NaN	9
+AS110	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	BaniasReserveDown	N	שמורת_באניאס_גשר	265004	794863	31/8/2017	11:00	16	430	356	0.21	NaN	NaN
+AS111	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	BaniasReserveDown	N	שמורת_באניאס_גשר	265004	794863	31/8/2017	11:00	16	430	356	0.21	NaN	NaN
+AS112	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	BaniasReserveDown	N	שמורת_באניאס_גשר	265004	794863	31/8/2017	11:00	16	430	356	0.21	NaN	NaN
+AS113	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	BaniasReserveDown	N	שמורת_באניאס_גשר	265004	794863	31/8/2017	11:00	16	430	356	0.21	NaN	NaN
+AS122	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	StreemNextToKtzinim	N	אפיק_ליד_קצינים	264643	794563	31/8/2017	12:15	16.5	427	358	0.21	NaN	NaN
+AS123	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	StreemNextToKtzinim	N	אפיק_ליד_קצינים	264643	794563	31/8/2017	12:15	16.5	427	358	0.21	NaN	NaN
+AS124	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	StreemNextToKtzinim	N	אפיק_ליד_קצינים	264643	794563	31/8/2017	12:15	16.5	427	358	0.21	NaN	NaN
+AS125	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	StreemNextToKtzinim	N	אפיק_ליד_קצינים	264643	794563	31/8/2017	12:15	16.5	427	358	0.21	NaN	NaN
+AS128	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	InsideKtzinim	N	בריכת_קצינים	264623	794573	31/8/2017	12:38	17.2	441	376	0.21	NaN	NaN
+AS129	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	InsideKtzinim	N	בריכת_קצינים	264623	794573	31/8/2017	12:38	17.2	441	376	0.21	NaN	NaN
+AS130	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	InsideKtzinim	N	בריכת_קצינים	264623	794573	31/8/2017	12:38	17.2	441	376	0.21	NaN	NaN
+AS131	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	InsideKtzinim	N	בריכת_קצינים	264623	794573	31/8/2017	12:38	17.2	441	376	0.21	NaN	NaN
+AS132	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	InsideKtzinim	N	בריכת_קצינים	264623	794573	31/8/2017	12:38	17.2	441	376	0.21	NaN	NaN
+AS133	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	InsideKtzinim	N	בריכת_קצינים	264623	794573	31/8/2017	12:38	17.2	441	376	0.21	NaN	NaN
+AS134	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	InsideKtzinim	N	בריכת_קצינים	264623	794573	31/8/2017	12:38	17.2	441	376	0.21	NaN	NaN
+AS138	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	NabiYuda	N	באניאס_מעלה_בריכת_שיקוע	260805	791387	31/8/2017	15:30	20.3	491	444	0.24	NaN	NaN
+AS139	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	NabiYuda	N	באניאס_מעלה_בריכת_שיקוע	260805	791387	31/8/2017	15:30	20.3	491	444	0.24	NaN	NaN
+AS140	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	NabiYuda	N	באניאס_מעלה_בריכת_שיקוע	260805	791387	31/8/2017	15:30	20.3	491	444	0.24	NaN	NaN
+AS149	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	SnirHydrometricMaayanBaruch	N	שניר_הידרומטרית_מעיין_ברוך	NaN	NaN	1/10/2017	15:21	23	322	310	0.15	9.5	6.75
+AS150	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	SnirHydrometricMaayanBaruch	N	שניר_הידרומטרית_מעיין_ברוך	NaN	NaN	1/10/2017	15:21	23	322	310	0.15	9.5	6.75
+AS151	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	SnirHydrometricMaayanBaruch	N	שניר_הידרומטרית_מעיין_ברוך	NaN	NaN	1/10/2017	15:21	23	322	310	0.15	9.5	6.75
+AS152	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	SnirHydrometricMaayanBaruch	N	שניר_הידרומטרית_מעיין_ברוך	NaN	NaN	1/10/2017	15:21	23	322	310	0.15	9.5	6.75
+AS153	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	SnirHydrometricMaayanBaruch	N	שניר_הידרומטרית_מעיין_ברוך	NaN	NaN	1/10/2017	15:21	23	322	310	0.15	9.5	6.75
+AS172	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	SnirDagAlHadanUpStrerm	N	שניר_שמורה_מעל_יוקי	792989	258339	1/10/2017	10:30	20.15	309	280	0.15	9.9	6.6
+AS173	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	SnirDagAlHadanUpStrerm	N	שניר_שמורה_מעל_יוקי	792989	258339	1/10/2017	10:30	20.15	309	280	0.15	9.9	6.6
+AS174	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	SnirDagAlHadanUpStrerm	N	שניר_שמורה_מעל_יוקי	792989	258339	1/10/2017	10:30	20.15	309	280	0.15	9.9	6.6
+AS175	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	SnirDagAlHadanUpStrerm	N	שניר_שמורה_מעל_יוקי	792989	258339	1/10/2017	10:30	20.15	309	280	0.15	9.9	6.6
+AS176	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	SnirDagAlHadanUpStrerm	N	שניר_שמורה_מעל_יוקי	792989	258339	1/10/2017	10:30	20.15	309	280	0.15	9.9	6.6
+AS192	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	SnirYatedotDownstrerm	N	שניר_שמורה_ידיות	792989	258100	1/10/2017	09:30	19.25	286	255	0.14	10.24	6.6
+AS193	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	SnirYatedotDownstrerm	N	שניר_שמורה_ידיות	792989	258100	1/10/2017	09:30	19.25	286	255	0.14	10.24	6.6
+AS194	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	SnirYatedotDownstrerm	N	שניר_שמורה_ידיות	792989	258100	1/10/2017	09:30	19.25	286	255	0.14	10.24	6.6
+AS195	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	SnirYatedotDownstrerm	N	שניר_שמורה_ידיות	792989	258100	1/10/2017	09:30	19.25	286	255	0.14	10.24	6.6
+AS196	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	SnirYatedotDownstrerm	N	שניר_שמורה_ידיות	792989	258100	1/10/2017	09:30	19.25	286	255	0.14	10.24	6.6
+AS214	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	lehavotHabashan	N	ירדן_גשר_להבות_הבשן	783686	259147	2/11/2017	07:30	17	332	282	0.16	8.37	7.47
+AS215	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	lehavotHabashan	N	ירדן_גשר_להבות_הבשן	783686	259147	2/11/2017	07:30	17	332	282	0.16	8.37	7.47
+AS216	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	lehavotHabashan	N	ירדן_גשר_להבות_הבשן	783686	259147	2/11/2017	07:30	17	332	282	0.16	8.37	7.47
+AS217	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	lehavotHabashan	N	ירדן_גשר_להבות_הבשן	783686	259147	2/11/2017	07:30	17	332	282	0.16	8.37	7.47
+AS232	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	HuliotSnirXJordan	N	ירדן_חוליות_מפגש_נחלים	788343	258152	2/11/2017	09:25	17.5	334	287	0.16	10.06	NaN
+AS233	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	HuliotSnirXJordan	N	ירדן_חוליות_מפגש_נחלים	788343	258152	2/11/2017	09:25	17.5	334	287	0.16	10.06	NaN
+AS234	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	HuliotSnirXJordan	N	ירדן_חוליות_מפגש_נחלים	788343	258152	2/11/2017	09:25	17.5	334	287	0.16	10.06	NaN
+AS235	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	HuliotSnirXJordan	N	ירדן_חוליות_מפגש_נחלים	788343	258152	2/11/2017	09:25	17.5	334	287	0.16	10.06	NaN
+AS236	AA	AA	Capoeta damascina	Cyprinidae	swab	Capoeta	aufwuchs	C	HuliotSnirXJordan	N	ירדן_חוליות_מפגש_נחלים	788343	258152	2/11/2017	09:25	17.5	334	287	0.16	10.06	NaN
+AS208	AA	AA	Garra nana	Cyprinidae	swab	Garra nana	plants	C	AgmonHula	N	ירדן_תעלה_משוחזרת	781029	255760	2/11/2017	18:00	19.86	322	290	0.15	9.4	NaN
+AS127	AA	AA	Garra rufa	Cyprinidae	swab	Garra rufa	aufwuchs	C	InsideKtzinim	N	בריכת_קצינים	264623	794573	31/8/2017	12:38	17.2	441	376	0.21	NaN	NaN
+AS154	AA	AA	Garra rufa	Cyprinidae	swab	Garra rufa	aufwuchs	C	SnirHydrometricMaayanBaruch	N	שניר_הידרומטרית_מעיין_ברוך	NaN	NaN	1/10/2017	15:21	23	322	310	0.15	9.5	6.75
+AS155	AA	AA	Garra rufa	Cyprinidae	swab	Garra rufa	aufwuchs	C	SnirHydrometricMaayanBaruch	N	שניר_הידרומטרית_מעיין_ברוך	NaN	NaN	1/10/2017	15:21	23	322	310	0.15	9.5	6.75
+AS156	AA	AA	Garra rufa	Cyprinidae	swab	Garra rufa	aufwuchs	C	SnirHydrometricMaayanBaruch	N	שניר_הידרומטרית_מעיין_ברוך	NaN	NaN	1/10/2017	15:21	23	322	310	0.15	9.5	6.75
+AS157	AA	AA	Garra rufa	Cyprinidae	swab	Garra rufa	aufwuchs	C	SnirHydrometricMaayanBaruch	N	שניר_הידרומטרית_מעיין_ברוך	NaN	NaN	1/10/2017	15:21	23	322	310	0.15	9.5	6.75
+AS167	AA	AA	Garra rufa	Cyprinidae	swab	Garra rufa	aufwuchs	C	SnirDagAlHadanUpStrerm	N	שניר_שמורה_מעל_יוקי	792989	258339	1/10/2017	10:30	20.15	309	280	0.15	9.9	6.6
+AS168	AA	AA	Garra rufa	Cyprinidae	swab	Garra rufa	aufwuchs	C	SnirDagAlHadanUpStrerm	N	שניר_שמורה_מעל_יוקי	792989	258339	1/10/2017	10:30	20.15	309	280	0.15	9.9	6.6
+AS169	AA	AA	Garra rufa	Cyprinidae	swab	Garra rufa	aufwuchs	C	SnirDagAlHadanUpStrerm	N	שניר_שמורה_מעל_יוקי	792989	258339	1/10/2017	10:30	20.15	309	280	0.15	9.9	6.6
+AS170	AA	AA	Garra rufa	Cyprinidae	swab	Garra rufa	aufwuchs	C	SnirDagAlHadanUpStrerm	N	שניר_שמורה_מעל_יוקי	792989	258339	1/10/2017	10:30	20.15	309	280	0.15	9.9	6.6
+AS171	AA	AA	Garra rufa	Cyprinidae	swab	Garra rufa	aufwuchs	C	SnirDagAlHadanUpStrerm	N	שניר_שמורה_מעל_יוקי	792989	258339	1/10/2017	10:30	20.15	309	280	0.15	9.9	6.6
+AS70	AA	AA	OH	Tilapiinae	swab	tilapine hybrid	phytoplankton	C	TelSaharonSpring	S	תל_סהרון	251421	706367	14/8/2017	07:10	30.44	3080	3394	1.59	7.39	7.48
+AS71	AA	AA	OH	Tilapiinae	swab	tilapine hybrid	phytoplankton	C	TelSaharonSpring	S	תל_סהרון	251421	706367	14/8/2017	07:10	30.44	3080	3394	1.59	7.39	7.48
+AS72	AA	AA	OH	Tilapiinae	swab	tilapine hybrid	phytoplankton	C	TelSaharonSpring	S	תל_סהרון	251421	706367	14/8/2017	07:10	30.44	3080	3394	1.59	7.39	7.48
+AS73	AA	AA	OH	Tilapiinae	swab	tilapine hybrid	phytoplankton	C	TelSaharonSpring	S	תל_סהרון	251421	706367	14/8/2017	07:10	30.44	3080	3394	1.59	7.39	7.48
+AS75	AA	AA	OH	Tilapiinae	swab	tilapine hybrid	phytoplankton	C	AsiCemetery	S	ניר_דויד_בית_קברות	NaN	NaN	14/8/2017	15:55	31.67	3917	NaN	2.04	9.7	8.6
+AS210	AA	AA	Oreochromis aureus	Tilapiinae	swab	Oreochromis	phytoplankton	C	lehavotHabashan	N	ירדן_גשר_להבות_הבשן	783686	259147	2/11/2017	07:30	17	332	282	0.16	8.37	7.47
+AS211	AA	AA	Oreochromis aureus	Tilapiinae	swab	Oreochromis	phytoplankton	C	lehavotHabashan	N	ירדן_גשר_להבות_הבשן	783686	259147	2/11/2017	07:30	17	332	282	0.16	8.37	7.47
+AS212	AA	AA	Oreochromis aureus	Tilapiinae	swab	Oreochromis	phytoplankton	C	lehavotHabashan	N	ירדן_גשר_להבות_הבשן	783686	259147	2/11/2017	07:30	17	332	282	0.16	8.37	7.47
+AS213	AA	AA	Oreochromis aureus	Tilapiinae	swab	Oreochromis	phytoplankton	C	lehavotHabashan	N	ירדן_גשר_להבות_הבשן	783686	259147	2/11/2017	07:30	17	332	282	0.16	8.37	7.47
+AS68	AA	AA	Tilapia zillii	Tilapiinae	swab	Tilapia	plants	C	TelSaharonSpring	S	תל_סהרון	251421	706367	14/8/2017	07:10	30.44	3080	3394	1.59	7.39	7.48
+AS69	AA	AA	Tilapia zillii	Tilapiinae	swab	Tilapia	plants	C	TelSaharonSpring	S	תל_סהרון	251421	706367	14/8/2017	07:10	30.44	3080	3394	1.59	7.39	7.48
+AS67	AA	AA	Tilapia zillii	Tilapiinae	swab	Tilapia	plants	C	TelSaharonSpring	S	תל_סהרון	251421	706367	14/8/2017	07:10	30.44	3080	3394	1.59	7.39	7.48
+AS89	AA	AA	Tilapia zillii	Tilapiinae	swab	Tilapia	plants	C	AsiCemetery	S	ניר_דויד_בית_קברות	NaN	NaN	14/8/2017	15:55	31.67	3917	NaN	2.04	9.7	8.6
+AS90	AA	AA	Tilapia zillii	Tilapiinae	swab	Tilapia	plants	C	AsiCemetery	S	ניר_דויד_בית_קברות	NaN	NaN	14/8/2017	15:55	31.67	3917	NaN	2.04	9.7	8.6
+AS91	AA	AA	Tilapia zillii	Tilapiinae	swab	Tilapia	plants	C	AsiCemetery	S	ניר_דויד_בית_קברות	NaN	NaN	14/8/2017	15:55	31.67	3917	NaN	2.04	9.7	8.6
+AS92	AA	AA	Tilapia zillii	Tilapiinae	swab	Tilapia	plants	C	AsiCemetery	S	ניר_דויד_בית_קברות	NaN	NaN	14/8/2017	15:55	31.67	3917	NaN	2.04	9.7	8.6
+AS93	AA	AA	Tilapia zillii	Tilapiinae	swab	Tilapia	plants	C	AsiCemetery	S	ניר_דויד_בית_קברות	NaN	NaN	14/8/2017	15:55	31.67	3917	NaN	2.04	9.7	8.6
+AS202	AA	AA	Tilapia zillii	Tilapiinae	swab	Tilapia	plants	C	AgmonHula	N	ירדן_תעלה_משוחזרת	781029	255760	2/11/2017	18:00	19.86	322	290	0.15	9.4	NaN
+AS203	AA	AA	Tilapia zillii	Tilapiinae	swab	Tilapia	plants	C	AgmonHula	N	ירדן_תעלה_משוחזרת	781029	255760	2/11/2017	18:00	19.86	322	290	0.15	9.4	NaN
+AS204	AA	AA	Tilapia zillii	Tilapiinae	swab	Tilapia	plants	C	AgmonHula	N	ירדן_תעלה_משוחזרת	781029	255760	2/11/2017	18:00	19.86	322	290	0.15	9.4	NaN
+AS205	AA	AA	Tilapia zillii	Tilapiinae	swab	Tilapia	plants	C	AgmonHula	N	ירדן_תעלה_משוחזרת	781029	255760	2/11/2017	18:00	19.86	322	290	0.15	9.4	NaN
+AS209	AA	AA	Tilapia zillii	Tilapiinae	swab	Tilapia	plants	C	lehavotHabashan	N	ירדן_גשר_להבות_הבשן	783686	259147	2/11/2017	07:30	17	332	282	0.16	8.37	7.47
+AS237	AA	AA	Tilapia zillii	Tilapiinae	swab	Tilapia	plants	C	GomeJunction	N	ירדן_תעלה_מערבית_צומת_גומא	786108	253756	2/11/2017	11:00	20	477	432	0.23	5	NaN
+AS238	AA	AA	Tilapia zillii	Tilapiinae	swab	Tilapia	plants	C	GomeJunction	N	ירדן_תעלה_מערבית_צומת_גומא	786108	253756	2/11/2017	11:00	20	477	432	0.23	5	NaN
+AS239	AA	AA	Tilapia zillii	Tilapiinae	swab	Tilapia	plants	C	GomeJunction	N	ירדן_תעלה_מערבית_צומת_גומא	786108	253756	2/11/2017	11:00	20	477	432	0.23	5	NaN
+AS240	AA	AA	Tilapia zillii	Tilapiinae	swab	Tilapia	plants	C	GomeJunction	N	ירדן_תעלה_מערבית_צומת_גומא	786108	253756	2/11/2017	11:00	20	477	432	0.23	5	NaN
+AS165	AA	AA	Acanthobrama lissneri	Cyprinidae	swab	Acanthobrama lissneri	invertebrates	B	SnirDagAlHadanUpStrerm	N	שניר_שמורה_מעל_יוקי	792989	258339	1/10/2017	10:30	20.15	309	280	0.15	9.9	6.6
+AS166	AA	AA	Acanthobrama lissneri	Cyprinidae	swab	Acanthobrama lissneri	invertebrates	B	SnirDagAlHadanUpStrerm	N	שניר_שמורה_מעל_יוקי	792989	258339	1/10/2017	10:30	20.15	309	280	0.15	9.9	6.6
+AS184	AA	AA	Acanthobrama lissneri	Cyprinidae	swab	Acanthobrama lissneri	invertebrates	B	SnirYatedotDownstrerm	N	שניר_שמורה_ידיות	792989	258100	1/10/2017	09:30	19.25	286	255	0.14	10.24	6.6
+AS185	AA	AA	Acanthobrama lissneri	Cyprinidae	swab	Acanthobrama lissneri	invertebrates	B	SnirYatedotDownstrerm	N	שניר_שמורה_ידיות	792989	258100	1/10/2017	09:30	19.25	286	255	0.14	10.24	6.6
+AS82	AA	AA	Astatotilapia flaviijosephi	Haplochrominae	swab	Astatotilapia	invertebrates	B	AsiCemetery	S	ניר_דויד_בית_קברות	NaN	NaN	14/8/2017	15:55	31.67	3917	NaN	2.04	9.7	8.6
+AS83	AA	AA	Astatotilapia flaviijosephi	Haplochrominae	swab	Astatotilapia	invertebrates	B	AsiCemetery	S	ניר_דויד_בית_קברות	NaN	NaN	14/8/2017	15:55	31.67	3917	NaN	2.04	9.7	8.6
+AS84	AA	AA	Astatotilapia flaviijosephi	Haplochrominae	swab	Astatotilapia	invertebrates	B	AsiCemetery	S	ניר_דויד_בית_קברות	NaN	NaN	14/8/2017	15:55	31.67	3917	NaN	2.04	9.7	8.6
+AS136	AA	AA	Barbus canis	Cyprinidae	swab	Barbus canis	invertebrates	B	NabiYuda	N	באניאס_מעלה_בריכת_שיקוע	260805	791387	31/8/2017	15:30	20.3	491	444	0.24	NaN	NaN
+AS137	AA	AA	Barbus canis	Cyprinidae	swab	Barbus canis	invertebrates	B	NabiYuda	N	באניאס_מעלה_בריכת_שיקוע	260805	791387	31/8/2017	15:30	20.3	491	444	0.24	NaN	NaN
+AS159	AA	AA	Barbus canis	Cyprinidae	swab	Barbus canis	invertebrates	B	SnirHydrometricMaayanBaruch	N	שניר_הידרומטרית_מעיין_ברוך	NaN	NaN	1/10/2017	15:21	23	322	310	0.15	9.5	6.75
+AS160	AA	AA	Barbus canis	Cyprinidae	swab	Barbus canis	invertebrates	B	SnirHydrometricMaayanBaruch	N	שניר_הידרומטרית_מעיין_ברוך	NaN	NaN	1/10/2017	15:21	23	322	310	0.15	9.5	6.75
+AS161	AA	AA	Barbus canis	Cyprinidae	swab	Barbus canis	invertebrates	B	SnirHydrometricMaayanBaruch	N	שניר_הידרומטרית_מעיין_ברוך	NaN	NaN	1/10/2017	15:21	23	322	310	0.15	9.5	6.75
+AS162	AA	AA	Barbus canis	Cyprinidae	swab	Barbus canis	invertebrates	B	SnirHydrometricMaayanBaruch	N	שניר_הידרומטרית_מעיין_ברוך	NaN	NaN	1/10/2017	15:21	23	322	310	0.15	9.5	6.75
+AS163	AA	AA	Barbus canis	Cyprinidae	swab	Barbus canis	invertebrates	B	SnirHydrometricMaayanBaruch	N	שניר_הידרומטרית_מעיין_ברוך	NaN	NaN	1/10/2017	15:21	23	322	310	0.15	9.5	6.75
+AS164	AA	AA	Barbus canis	Cyprinidae	swab	Barbus canis	invertebrates	B	SnirDagAlHadanUpStrerm	N	שניר_שמורה_מעל_יוקי	792989	258339	1/10/2017	10:30	20.15	309	280	0.15	9.9	6.6
+AS186	AA	AA	Barbus canis	Cyprinidae	swab	Barbus canis	invertebrates	B	SnirYatedotDownstrerm	N	שניר_שמורה_ידיות	792989	258100	1/10/2017	09:30	19.25	286	255	0.14	10.24	6.6
+AS187	AA	AA	Barbus canis	Cyprinidae	swab	Barbus canis	invertebrates	B	SnirYatedotDownstrerm	N	שניר_שמורה_ידיות	792989	258100	1/10/2017	09:30	19.25	286	255	0.14	10.24	6.6
+AS188	AA	AA	Barbus canis	Cyprinidae	swab	Barbus canis	invertebrates	B	SnirYatedotDownstrerm	N	שניר_שמורה_ידיות	792989	258100	1/10/2017	09:30	19.25	286	255	0.14	10.24	6.6
+AS218	AA	AA	Barbus canis	Cyprinidae	swab	Barbus canis	invertebrates	B	lehavotHabashan	N	ירדן_גשר_להבות_הבשן	783686	259147	2/11/2017	07:30	17	332	282	0.16	8.37	7.47
+AS219	AA	AA	Barbus canis	Cyprinidae	swab	Barbus canis	invertebrates	B	lehavotHabashan	N	ירדן_גשר_להבות_הבשן	783686	259147	2/11/2017	07:30	17	332	282	0.16	8.37	7.47
+AS220	AA	AA	Barbus canis	Cyprinidae	swab	Barbus canis	invertebrates	B	lehavotHabashan	N	ירדן_גשר_להבות_הבשן	783686	259147	2/11/2017	07:30	17	332	282	0.16	8.37	7.47
+AS221	AA	AA	Barbus canis	Cyprinidae	swab	Barbus canis	invertebrates	B	lehavotHabashan	N	ירדן_גשר_להבות_הבשן	783686	259147	2/11/2017	07:30	17	332	282	0.16	8.37	7.47
+AS158	AA	AA	Barbus longiceps	Cyprinidae	swab	Barbus longiceps	invertebrates	B	SnirHydrometricMaayanBaruch	N	שניר_הידרומטרית_מעיין_ברוך	NaN	NaN	1/10/2017	15:21	23	322	310	0.15	9.5	6.75
+AS189	AA	AA	Barbus longiceps	Cyprinidae	swab	Barbus longiceps	invertebrates	B	SnirYatedotDownstrerm	N	שניר_שמורה_ידיות	792989	258100	1/10/2017	09:30	19.25	286	255	0.14	10.24	6.6
+AS190	AA	AA	Barbus longiceps	Cyprinidae	swab	Barbus longiceps	invertebrates	B	SnirYatedotDownstrerm	N	שניר_שמורה_ידיות	792989	258100	1/10/2017	09:30	19.25	286	255	0.14	10.24	6.6
+AS191	AA	AA	Barbus longiceps	Cyprinidae	swab	Barbus longiceps	invertebrates	B	SnirYatedotDownstrerm	N	שניר_שמורה_ידיות	792989	258100	1/10/2017	09:30	19.25	286	255	0.14	10.24	6.6
+AS58	AA	AA	Gambusia affinis	Poeciliidae	swab	Gambusia	invertebrates	B	TelSaharonDown	S	תל_סהרון	251421	706367	14/8/2017	07:10	30.44	3080	3394	1.59	7.39	7.48
+AS59	AA	AA	Gambusia affinis	Poeciliidae	swab	Gambusia	invertebrates	B	TelSaharonDown	S	תל_סהרון	251421	706367	14/8/2017	07:10	30.44	3080	3394	1.59	7.39	7.48
+AS60	AA	AA	Gambusia affinis	Poeciliidae	swab	Gambusia	invertebrates	B	TelSaharonDown	S	תל_סהרון	251421	706367	14/8/2017	07:10	30.44	3080	3394	1.59	7.39	7.48
+AS61	AA	AA	Gambusia affinis	Poeciliidae	swab	Gambusia	invertebrates	B	TelSaharonDown	S	תל_סהרון	251421	706367	14/8/2017	07:10	30.44	3080	3394	1.59	7.39	7.48
+AS62	AA	AA	Gambusia affinis	Poeciliidae	swab	Gambusia	invertebrates	B	TelSaharonDown	S	תל_סהרון	251421	706367	14/8/2017	07:10	30.44	3080	3394	1.59	7.39	7.48
+AS74	AA	AA	Gambusia affinis	Poeciliidae	swab	Gambusia	invertebrates	B	AsiCemetery	S	ניר_דויד_בית_קברות	NaN	NaN	14/8/2017	15:55	31.67	3917	NaN	2.04	9.7	8.6
+AS79	AA	AA	Mugil cephalus	Mugilidae	swab	Mugil	invertebrates	B	AsiCemetery	S	ניר_דויד_בית_קברות	NaN	NaN	14/8/2017	15:55	31.67	3917	NaN	2.04	9.7	8.6
+AS80	AA	AA	Mugil cephalus	Mugilidae	swab	Mugil	invertebrates	B	AsiCemetery	S	ניר_דויד_בית_קברות	NaN	NaN	14/8/2017	15:55	31.67	3917	NaN	2.04	9.7	8.6
+AS81	AA	AA	Mugil cephalus	Mugilidae	swab	Mugil	invertebrates	B	AsiCemetery	S	ניר_דויד_בית_קברות	NaN	NaN	14/8/2017	15:55	31.67	3917	NaN	2.04	9.7	8.6
+AS141	AA	AA	Nemacheilus dori	Nemacheilidae	swab	Nemacheilus dori	invertebrates	B	TelSaharonSpring	S	תל_סהרון	251421	706367	14/8/2017	07:10	30.44	3080	3394	1.59	7.39	7.48
+AS142	AA	AA	Nemacheilus dori	Nemacheilidae	swab	Nemacheilus dori	invertebrates	B	TelSaharonSpring	S	תל_סהרון	251421	706367	14/8/2017	07:10	30.44	3080	3394	1.59	7.39	7.48
+AS143	AA	AA	Nemacheilus dori	Nemacheilidae	swab	Nemacheilus dori	invertebrates	B	TelSaharonSpring	S	תל_סהרון	251421	706367	14/8/2017	07:10	30.44	3080	3394	1.59	7.39	7.48
+AS144	AA	AA	Nemacheilus dori	Nemacheilidae	swab	Nemacheilus dori	invertebrates	B	TelSaharonSpring	S	תל_סהרון	251421	706367	14/8/2017	07:10	30.44	3080	3394	1.59	7.39	7.48
+AS145	AA	AA	Nemacheilus dori	Nemacheilidae	swab	Nemacheilus dori	invertebrates	B	TelSaharonSpring	S	תל_סהרון	251421	706367	14/8/2017	07:10	30.44	3080	3394	1.59	7.39	7.48
+AS101	AA	AA	Nemacheilus jordanicus	Nemacheilidae	swab	Nemacheilus jordanicus	invertebrates	B	BaniasReserveUp	N	שמורת_באניאס_בריכות	265117	794850	31/8/2017	10:00	15.38	428	350	0.21	NaN	9
+AS102	AA	AA	Nemacheilus jordanicus	Nemacheilidae	swab	Nemacheilus jordanicus	invertebrates	B	BaniasReserveUp	N	שמורת_באניאס_בריכות	265117	794850	31/8/2017	10:00	15.38	428	350	0.21	NaN	9
+AS103	AA	AA	Nemacheilus jordanicus	Nemacheilidae	swab	Nemacheilus jordanicus	invertebrates	B	BaniasReserveUp	N	שמורת_באניאס_בריכות	265117	794850	31/8/2017	10:00	15.38	428	350	0.21	NaN	9
+AS104	AA	AA	Nemacheilus jordanicus	Nemacheilidae	swab	Nemacheilus jordanicus	invertebrates	B	BaniasReserveUp	N	שמורת_באניאס_בריכות	265117	794850	31/8/2017	10:00	15.38	428	350	0.21	NaN	9
+AS114	AA	AA	Nemacheilus jordanicus	Nemacheilidae	swab	Nemacheilus jordanicus	invertebrates	B	BaniasReserveDown	N	שמורת_באניאס_גשר	265004	794863	31/8/2017	11:00	16	430	356	0.21	NaN	NaN
+AS115	AA	AA	Nemacheilus jordanicus	Nemacheilidae	swab	Nemacheilus jordanicus	invertebrates	B	BaniasReserveDown	N	שמורת_באניאס_גשר	265004	794863	31/8/2017	11:00	16	430	356	0.21	NaN	NaN
+AS116	AA	AA	Nemacheilus jordanicus	Nemacheilidae	swab	Nemacheilus jordanicus	invertebrates	B	BaniasReserveDown	N	שמורת_באניאס_גשר	265004	794863	31/8/2017	11:00	16	430	356	0.21	NaN	NaN
+AS117	AA	AA	Nemacheilus jordanicus	Nemacheilidae	swab	Nemacheilus jordanicus	invertebrates	B	BaniasReserveDown	N	שמורת_באניאס_גשר	265004	794863	31/8/2017	11:00	16	430	356	0.21	NaN	NaN
+AS119	AA	AA	Nemacheilus jordanicus	Nemacheilidae	swab	Nemacheilus jordanicus	invertebrates	B	StreemNextToKtzinim	N	אפיק_ליד_קצינים	264643	794563	31/8/2017	12:15	16.5	427	358	0.21	NaN	NaN
+AS120	AA	AA	Nemacheilus jordanicus	Nemacheilidae	swab	Nemacheilus jordanicus	invertebrates	B	StreemNextToKtzinim	N	אפיק_ליד_קצינים	264643	794563	31/8/2017	12:15	16.5	427	358	0.21	NaN	NaN
+AS121	AA	AA	Nemacheilus jordanicus	Nemacheilidae	swab	Nemacheilus jordanicus	invertebrates	B	StreemNextToKtzinim	N	אפיק_ליד_קצינים	264643	794563	31/8/2017	12:15	16.5	427	358	0.21	NaN	NaN
+AS177	AA	AA	Nemacheilus jordanicus	Nemacheilidae	swab	Nemacheilus jordanicus	invertebrates	B	SnirDagAlHadanUpStrerm	N	שניר_שמורה_מעל_יוקי	792989	258339	1/10/2017	10:30	20.15	309	280	0.15	9.9	6.6
+AS178	AA	AA	Nemacheilus jordanicus	Nemacheilidae	swab	Nemacheilus jordanicus	invertebrates	B	SnirDagAlHadanUpStrerm	N	שניר_שמורה_מעל_יוקי	792989	258339	1/10/2017	10:30	20.15	309	280	0.15	9.9	6.6
+AS179	AA	AA	Nemacheilus jordanicus	Nemacheilidae	swab	Nemacheilus jordanicus	invertebrates	B	SnirDagAlHadanUpStrerm	N	שניר_שמורה_מעל_יוקי	792989	258339	1/10/2017	10:30	20.15	309	280	0.15	9.9	6.6
+AS180	AA	AA	Nemacheilus jordanicus	Nemacheilidae	swab	Nemacheilus jordanicus	invertebrates	B	SnirDagAlHadanUpStrerm	N	שניר_שמורה_מעל_יוקי	792989	258339	1/10/2017	10:30	20.15	309	280	0.15	9.9	6.6
+AS181	AA	AA	Nemacheilus jordanicus	Nemacheilidae	swab	Nemacheilus jordanicus	invertebrates	B	SnirDagAlHadanUpStrerm	N	שניר_שמורה_מעל_יוקי	792989	258339	1/10/2017	10:30	20.15	309	280	0.15	9.9	6.6
+AS182	AA	AA	Nemacheilus jordanicus	Nemacheilidae	swab	Nemacheilus jordanicus	invertebrates	B	SnirDagAlHadanUpStrerm	N	שניר_שמורה_מעל_יוקי	792989	258339	1/10/2017	10:30	20.15	309	280	0.15	9.9	6.6
+AS183	AA	AA	Nemacheilus jordanicus	Nemacheilidae	swab	Nemacheilus jordanicus	invertebrates	B	SnirDagAlHadanUpStrerm	N	שניר_שמורה_מעל_יוקי	792989	258339	1/10/2017	10:30	20.15	309	280	0.15	9.9	6.6
+AS226	AA	AA	Nemacheilus jordanicus	Nemacheilidae	swab	Nemacheilus jordanicus	invertebrates	B	HuliotSnirXJordan	N	ירדן_חוליות_מפגש_נחלים	788343	258152	2/11/2017	09:25	17.5	334	287	0.16	10.06	NaN
+AS227	AA	AA	Nemacheilus jordanicus	Nemacheilidae	swab	Nemacheilus jordanicus	invertebrates	B	HuliotSnirXJordan	N	ירדן_חוליות_מפגש_נחלים	788343	258152	2/11/2017	09:25	17.5	334	287	0.16	10.06	NaN
+AS228	AA	AA	Nemacheilus jordanicus	Nemacheilidae	swab	Nemacheilus jordanicus	invertebrates	B	HuliotSnirXJordan	N	ירדן_חוליות_מפגש_נחלים	788343	258152	2/11/2017	09:25	17.5	334	287	0.16	10.06	NaN
+AS229	AA	AA	Nemacheilus jordanicus	Nemacheilidae	swab	Nemacheilus jordanicus	invertebrates	B	HuliotSnirXJordan	N	ירדן_חוליות_מפגש_נחלים	788343	258152	2/11/2017	09:25	17.5	334	287	0.16	10.06	NaN
+AS230	AA	AA	Nemacheilus jordanicus	Nemacheilidae	swab	Nemacheilus jordanicus	invertebrates	B	HuliotSnirXJordan	N	ירדן_חוליות_מפגש_נחלים	788343	258152	2/11/2017	09:25	17.5	334	287	0.16	10.06	NaN
+AS231	AA	AA	Nemacheilus jordanicus	Nemacheilidae	swab	Nemacheilus jordanicus	invertebrates	B	HuliotSnirXJordan	N	ירדן_חוליות_מפגש_נחלים	788343	258152	2/11/2017	09:25	17.5	334	287	0.16	10.06	NaN
+AS207	AA	AA	Pseudophoxinus kervillei	Cyprinidae	swab	Pseudophoxinus	invertebrates	B	AgmonHula	N	ירדן_תעלה_משוחזרת	781029	255760	2/11/2017	18:00	19.86	322	290	0.15	9.4	NaN
+AS244	AA	AA	Pseudophoxinus kervillei	Cyprinidae	swab	Pseudophoxinus	invertebrates	B	GomeJunction	N	ירדן_תעלה_מערבית_צומת_גומא	786108	253756	2/11/2017	11:00	20	477	432	0.23	5	NaN
+AS245	AA	AA	Pseudophoxinus kervillei	Cyprinidae	swab	Pseudophoxinus	invertebrates	B	GomeJunction	N	ירדן_תעלה_מערבית_צומת_גומא	786108	253756	2/11/2017	11:00	20	477	432	0.23	5	NaN
+AS246	AA	AA	Pseudophoxinus kervillei	Cyprinidae	swab	Pseudophoxinus	invertebrates	B	GomeJunction	N	ירדן_תעלה_מערבית_צומת_גומא	786108	253756	2/11/2017	11:00	20	477	432	0.23	5	NaN
+AS247	AA	AA	Pseudophoxinus kervillei	Cyprinidae	swab	Pseudophoxinus	invertebrates	B	GomeJunction	N	ירדן_תעלה_מערבית_צומת_גומא	786108	253756	2/11/2017	11:00	20	477	432	0.23	5	NaN
+AS63	AA	AA	Sarotherodon  galilaeus	Tilapiinae	swab	Sarotherodon	filter_feeder	B	TelSaharonSpring	S	תל_סהרון	251421	706367	14/8/2017	07:10	30.44	3080	3394	1.59	7.39	7.48
+AS64	AA	AA	Sarotherodon  galilaeus	Tilapiinae	swab	Sarotherodon	filter_feeder	B	TelSaharonSpring	S	תל_סהרון	251421	706367	14/8/2017	07:10	30.44	3080	3394	1.59	7.39	7.48
+AS65	AA	AA	Sarotherodon  galilaeus	Tilapiinae	swab	Sarotherodon	filter_feeder	B	TelSaharonSpring	S	תל_סהרון	251421	706367	14/8/2017	07:10	30.44	3080	3394	1.59	7.39	7.48
+AS66	AA	AA	Sarotherodon  galilaeus	Tilapiinae	swab	Sarotherodon	filter_feeder	B	TelSaharonSpring	S	תל_סהרון	251421	706367	14/8/2017	07:10	30.44	3080	3394	1.59	7.39	7.48
+AS85	AA	AA	Sarotherodon  galilaeus	Tilapiinae	swab	Sarotherodon	filter_feeder	B	AsiCemetery	S	ניר_דויד_בית_קברות	NaN	NaN	14/8/2017	15:55	31.67	3917	NaN	2.04	9.7	8.6
+AS86	AA	AA	Sarotherodon  galilaeus	Tilapiinae	swab	Sarotherodon	filter_feeder	B	AsiCemetery	S	ניר_דויד_בית_קברות	NaN	NaN	14/8/2017	15:55	31.67	3917	NaN	2.04	9.7	8.6
+AS87	AA	AA	Sarotherodon  galilaeus	Tilapiinae	swab	Sarotherodon	filter_feeder	B	AsiCemetery	S	ניר_דויד_בית_קברות	NaN	NaN	14/8/2017	15:55	31.67	3917	NaN	2.04	9.7	8.6
+AS88	AA	AA	Sarotherodon  galilaeus	Tilapiinae	swab	Sarotherodon	filter_feeder	B	AsiCemetery	S	ניר_דויד_בית_קברות	NaN	NaN	14/8/2017	15:55	31.67	3917	NaN	2.04	9.7	8.6
+AS241	AA	AA	Sarotherodon  galilaeus	Tilapiinae	swab	Sarotherodon	filter_feeder	B	GomeJunction	N	ירדן_תעלה_מערבית_צומת_גומא	786108	253756	2/11/2017	11:00	20	477	432	0.23	5	NaN
+AS242	AA	AA	Sarotherodon  galilaeus	Tilapiinae	swab	Sarotherodon	filter_feeder	B	GomeJunction	N	ירדן_תעלה_מערבית_צומת_גומא	786108	253756	2/11/2017	11:00	20	477	432	0.23	5	NaN
+AS243	AA	AA	Sarotherodon  galilaeus	Tilapiinae	swab	Sarotherodon	filter_feeder	B	GomeJunction	N	ירדן_תעלה_מערבית_צומת_גומא	786108	253756	2/11/2017	11:00	20	477	432	0.23	5	NaN
+AS206	AA	AA	Acanthobrama lissneri	Cyprinidae	swab	Acanthobrama lissneri	plants	C	AgmonHula	N	ירדן_תעלה_משוחזרת	781029	255760	2/11/2017	18:00	19.86	322	290	0.15	9.4	NaN
+AS222	AA	AA	Acanthobrama lissneri	Cyprinidae	swab	Acanthobrama lissneri	plants	C	lehavotHabashan	N	ירדן_גשר_להבות_הבשן	783686	259147	2/11/2017	07:30	17	332	282	0.16	8.37	7.47
+AS223	AA	AA	Acanthobrama lissneri	Cyprinidae	swab	Acanthobrama lissneri	plants	C	lehavotHabashan	N	ירדן_גשר_להבות_הבשן	783686	259147	2/11/2017	07:30	17	332	282	0.16	8.37	7.47
+AS224	AA	AA	Acanthobrama lissneri	Cyprinidae	swab	Acanthobrama lissneri	plants	C	lehavotHabashan	N	ירדן_גשר_להבות_הבשן	783686	259147	2/11/2017	07:30	17	332	282	0.16	8.37	7.47
+AS225	AA	AA	Acanthobrama lissneri	Cyprinidae	swab	Acanthobrama lissneri	plants	C	lehavotHabashan	N	ירדן_גשר_להבות_הבשן	783686	259147	2/11/2017	07:30	17	332	282	0.16	8.37	7.47
+AS76	AA	AA	IH	Haplochrominae	swab	cichlid_hybrid	?	A	AsiCemetery	S	ניר_דויד_בית_קברות	NaN	NaN	14/8/2017	15:55	31.67	3917	NaN	2.04	9.7	8.6
+AS77	AA	AA	IH	Haplochrominae	swab	cichlid_hybrid	?	A	AsiCemetery	S	ניר_דויד_בית_קברות	NaN	NaN	14/8/2017	15:55	31.67	3917	NaN	2.04	9.7	8.6
+AS78	AA	AA	IH	Haplochrominae	swab	cichlid_hybrid	?	A	AsiCemetery	S	ניר_דויד_בית_קברות	NaN	NaN	14/8/2017	15:55	31.67	3917	NaN	2.04	9.7	8.6
+AS248	AA	AA	IH	Haplochrominae	swab	cichlid_hybrid	?	A	GomeJunction	N	ירדן_תעלה_מערבית_צומת_גומא	786108	253756	2/11/2017	11:00	20	477	432	0.23	5	NaN
+AS249	AA	AA	IH	Haplochrominae	swab	cichlid_hybrid	?	A	GomeJunction	N	ירדן_תעלה_מערבית_צומת_גומא	786108	253756	2/11/2017	11:00	20	477	432	0.23	5	NaN
+NTC-1	AA	AA	NTC-1	NTC-1	control	NTC-1	NTC-1	NTC-1	NTC-1	NTC-1	NTC-1	NTC-1	NTC-1	NTC-1	NTC-1	0	0	NTC-1	NTC-1	NTC-1	NTC-1
+NTC-2	AA	AA	NTC-2	NTC-2	control	NTC-2	NTC-2	NTC-2	NTC-2	NTC-2	NTC-2	NTC-2	NTC-2	NTC-2	NTC-2	0	0	NTC-2	NTC-2	NTC-2	NTC-2
+AS94BC14	AA	AA	Water	Water	Water	W	Water	Water	TelSaharonDown	S	תל_סהרון	251421	706367	14/8/2017	07:10	30.44	3080	3394	1.59	7.39	7.48
+AS95BC15	AA	AA	Water	Water	Water	W	Water	Water	TelSaharonSpring	S	תל_סהרון	251421	706367	14/8/2017	07:10	30.44	3080	3394	1.59	7.39	7.48
+AS96BC16	AA	AA	Water	Water	Water	W	Water	Water	AsiCemetery	S	ניר_דויד_בית_קברות	NaN	NaN	14/8/2017	15:55	31.67	3917	NaN	2.04	9.7	8.6
+AS97	AA	AA	Water	Water	Water	W	Water	Water	BaniasFall	N	מפל_באניאס	263945	794041	31/8/2017	07:30	16.45	430	361	0.21	NaN	8.34
+AS109BC18	AA	AA	Water	Water	Water	W	Water	Water	BaniasReserveUp	N	שמורת_באניאס_בריכות	265117	794850	31/8/2017	10:00	15.38	428	350	0.21	NaN	9
+AS118BC19	AA	AA	Water	Water	Water	W	Water	Water	StreemNextToKtzinim	N	אפיק_ליד_קצינים	264643	794563	31/8/2017	12:15	16.5	427	358	0.21	NaN	NaN
+AS126BC20	AA	AA	Water	Water	Water	W	Water	Water	InsideKtzinim	N	בריכת_קצינים	264623	794573	31/8/2017	12:38	17.2	441	376	0.21	NaN	NaN
+AS135BC21	AA	AA	Water	Water	Water	W	Water	Water	NabiYuda	N	באניאס_מעלה_בריכת_שיקוע	260805	791387	31/8/2017	15:30	20.3	491	444	0.24	NaN	NaN
+AS146BC22	AA	AA	Water	Water	Water	W	Water	Water	SnirHydrometricMaayanBaruch	N	שניר_הידרומטרית_מעיין_ברוך	NaN	NaN	1/10/2017	15:21	23	322	310	0.15	9.5	6.75
+AS147BC23	AA	AA	Water	Water	Water	W	Water	Water	SnirDagAlHadanUpStrerm	N	שניר_שמורה_מעל_יוקי	792989	258339	1/10/2017	10:30	20.15	309	280	0.15	9.9	6.6
+AS148BC24	AA	AA	Water	Water	Water	W	Water	Water	SnirYatedotDownstrerm	N	שניר_שמורה_ידיות	792989	258100	1/10/2017	09:30	19.25	286	255	0.14	10.24	6.6
+AS197	AA	AA	Water	Water	Water	W	Water	Water	lehavotHabashan	N	ירדן_גשר_להבות_הבשן	783686	259147	2/11/2017	07:30	17	332	282	0.16	8.37	7.47
+AS198	AA	AA	Water	Water	Water	W	Water	Water	HuliotSnirXJordan	N	ירדן_חוליות_מפגש_נחלים	788343	258152	2/11/2017	09:25	17.5	334	287	0.16	10.06	NaN
+AS199	AA	AA	Water	Water	Water	W	Water	Water	GomeJunction	N	ירדן_תעלה_מערבית_צומת_גומא	786108	253756	2/11/2017	11:00	20	477	432	0.23	5	NaN
+AS200	AA	AA	Water	Water	Water	W	Water	Water	AgmonHula	N	ירדן_תעלה_משוחזרת	781029	255760	2/11/2017	18:00	19.86	322	290	0.15	9.4	NaN
+AS201	AA	AA	Water	Water	Water	W	Water	Water	JordanPark	N	ירדן_כניסת_נחל_דישון	772757	258933	2/11/2017	14:00	18.8	410	360	0.2	8	NaN
