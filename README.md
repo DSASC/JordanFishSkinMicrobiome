@@ -1,1 +1,2 @@
-# JordanFishSkinMicrobiome
++ [Concatenate MiSeq runs](https://github.com/szitenberg/JordanFishSkinMicrobiome/blob/master/ConcatSequencingRuns.ipynb): Data was sequenced in two runs. This notebook concatenates files of the same sample form both runs.  
++ 
