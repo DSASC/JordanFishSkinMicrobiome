@@ -1,4 +1,4 @@
-# Krotman and Yegraliev et al. 2019
+# Krotman and Yegraliyev et al. 2019
 
 This repository accompanies the publication  
 **Dissecting the factors shaping fish skin microbiomes in a heterogenous inland water system**  
