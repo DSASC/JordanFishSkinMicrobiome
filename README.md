@@ -1,5 +1,7 @@
 # Krotman and Yegraliyev et al. 2019
 
+[![DOI](https://zenodo.org/badge/190523076.svg)](https://zenodo.org/badge/latestdoi/190523076)
+
 This repository accompanies the publication  
 **Dissecting the factors shaping fish skin microbiomes in a heterogenous inland water system**  
 
