@@ -1,25 +1,25 @@
 #SampleID	BarcodeSequence	LinkerPrimerSequence	SP	family_or_tribe	type	Code	Main_Diet	Diet_Category	Location	Basin	Heb	lat_lon	Date	Time	T	Conductivity  	ConductivityA	Salinity	PercentO	pH	Sampling site	Stream	Status
 AS208	AA	AA	Garra nana	Cyprinidae	Swab	Garra nana	plants	C	AgmonHula	N	ירדן_תעלה_משוחזרת	33.1232 N 35.5920 E	2-Nov-2017	18:00	19.86	322	290	0.15	9.4		J.4	J	pristine
-AS202	AA	AA	Tilapia zillii	Tilapiinae	Swab	Tilapia	plants	C	AgmonHula	N	ירדן_תעלה_משוחזרת	33.1232 N 35.5920 E	2-Nov-2017	18:00	19.86	322	290	0.15	9.4		J.4	J	pristine
-AS203	AA	AA	Tilapia zillii	Tilapiinae	Swab	Tilapia	plants	C	AgmonHula	N	ירדן_תעלה_משוחזרת	33.1232 N 35.5920 E	2-Nov-2017	18:00	19.86	322	290	0.15	9.4		J.4	J	pristine
-AS204	AA	AA	Tilapia zillii	Tilapiinae	Swab	Tilapia	plants	C	AgmonHula	N	ירדן_תעלה_משוחזרת	33.1232 N 35.5920 E	2-Nov-2017	18:00	19.86	322	290	0.15	9.4		J.4	J	pristine
-AS205	AA	AA	Tilapia zillii	Tilapiinae	Swab	Tilapia	plants	C	AgmonHula	N	ירדן_תעלה_משוחזרת	33.1232 N 35.5920 E	2-Nov-2017	18:00	19.86	322	290	0.15	9.4		J.4	J	pristine
+AS202	AA	AA	Coptodon zillii	Tilapiinae	Swab	Tilapia	plants	C	AgmonHula	N	ירדן_תעלה_משוחזרת	33.1232 N 35.5920 E	2-Nov-2017	18:00	19.86	322	290	0.15	9.4		J.4	J	pristine
+AS203	AA	AA	Coptodon zillii	Tilapiinae	Swab	Tilapia	plants	C	AgmonHula	N	ירדן_תעלה_משוחזרת	33.1232 N 35.5920 E	2-Nov-2017	18:00	19.86	322	290	0.15	9.4		J.4	J	pristine
+AS204	AA	AA	Coptodon zillii	Tilapiinae	Swab	Tilapia	plants	C	AgmonHula	N	ירדן_תעלה_משוחזרת	33.1232 N 35.5920 E	2-Nov-2017	18:00	19.86	322	290	0.15	9.4		J.4	J	pristine
+AS205	AA	AA	Coptodon zillii	Tilapiinae	Swab	Tilapia	plants	C	AgmonHula	N	ירדן_תעלה_משוחזרת	33.1232 N 35.5920 E	2-Nov-2017	18:00	19.86	322	290	0.15	9.4		J.4	J	pristine
 AS207	AA	AA	Pseudophoxinus kervillei	Cyprinidae	Swab	Pseudophoxinus	invertebrates	B	AgmonHula	N	ירדן_תעלה_משוחזרת	33.1232 N 35.5920 E	2-Nov-2017	18:00	19.86	322	290	0.15	9.4		J.4	J	pristine
 AS206	AA	AA	Acanthobrama lissneri	Cyprinidae	Swab	Acanthobrama lissneri	plants	C	AgmonHula	N	ירדן_תעלה_משוחזרת	33.1232 N 35.5920 E	2-Nov-2017	18:00	19.86	322	290	0.15	9.4		J.4	J	pristine
 AS200	AA	AA	Water	Water	Water	W	Water	Water	AgmonHula	N	ירדן_תעלה_משוחזרת	33.1232 N 35.5920 E	2-Nov-2017	18:00	19.86	322	290	0.15	9.4		J.4	J	pristine
 AS75	AA	AA	OH	Tilapiinae	Swab	tilapine hybrid	phytoplankton	C	AsiCemetery	S	ניר_דויד_בית_קברות	32.5014 N 35.4610 E	14-Aug-2017	15:55	31.67	3917		2.04	9.7	8.6	A	A	pristine
-AS89	AA	AA	Tilapia zillii	Tilapiinae	Swab	Tilapia	plants	C	AsiCemetery	S	ניר_דויד_בית_קברות	32.5014 N 35.4610 E	14-Aug-2017	15:55	31.67	3917		2.04	9.7	8.6	A	A	pristine
-AS90	AA	AA	Tilapia zillii	Tilapiinae	Swab	Tilapia	plants	C	AsiCemetery	S	ניר_דויד_בית_קברות	32.5014 N 35.4610 E	14-Aug-2017	15:55	31.67	3917		2.04	9.7	8.6	A	A	pristine
-AS91	AA	AA	Tilapia zillii	Tilapiinae	Swab	Tilapia	plants	C	AsiCemetery	S	ניר_דויד_בית_קברות	32.5014 N 35.4610 E	14-Aug-2017	15:55	31.67	3917		2.04	9.7	8.6	A	A	pristine
-AS92	AA	AA	Tilapia zillii	Tilapiinae	Swab	Tilapia	plants	C	AsiCemetery	S	ניר_דויד_בית_קברות	32.5014 N 35.4610 E	14-Aug-2017	15:55	31.67	3917		2.04	9.7	8.6	A	A	pristine
-AS93	AA	AA	Tilapia zillii	Tilapiinae	Swab	Tilapia	plants	C	AsiCemetery	S	ניר_דויד_בית_קברות	32.5014 N 35.4610 E	14-Aug-2017	15:55	31.67	3917		2.04	9.7	8.6	A	A	pristine
+AS89	AA	AA	Coptodon zillii	Tilapiinae	Swab	Tilapia	plants	C	AsiCemetery	S	ניר_דויד_בית_קברות	32.5014 N 35.4610 E	14-Aug-2017	15:55	31.67	3917		2.04	9.7	8.6	A	A	pristine
+AS90	AA	AA	Coptodon zillii	Tilapiinae	Swab	Tilapia	plants	C	AsiCemetery	S	ניר_דויד_בית_קברות	32.5014 N 35.4610 E	14-Aug-2017	15:55	31.67	3917		2.04	9.7	8.6	A	A	pristine
+AS91	AA	AA	Coptodon zillii	Tilapiinae	Swab	Tilapia	plants	C	AsiCemetery	S	ניר_דויד_בית_קברות	32.5014 N 35.4610 E	14-Aug-2017	15:55	31.67	3917		2.04	9.7	8.6	A	A	pristine
+AS92	AA	AA	Coptodon zillii	Tilapiinae	Swab	Tilapia	plants	C	AsiCemetery	S	ניר_דויד_בית_קברות	32.5014 N 35.4610 E	14-Aug-2017	15:55	31.67	3917		2.04	9.7	8.6	A	A	pristine
+AS93	AA	AA	Coptodon zillii	Tilapiinae	Swab	Tilapia	plants	C	AsiCemetery	S	ניר_דויד_בית_קברות	32.5014 N 35.4610 E	14-Aug-2017	15:55	31.67	3917		2.04	9.7	8.6	A	A	pristine
 AS82	AA	AA	Astatotilapia flaviijosephi	Haplochrominae	Swab	Astatotilapia	invertebrates	B	AsiCemetery	S	ניר_דויד_בית_קברות	32.5014 N 35.4610 E	14-Aug-2017	15:55	31.67	3917		2.04	9.7	8.6	A	A	pristine
 AS83	AA	AA	Astatotilapia flaviijosephi	Haplochrominae	Swab	Astatotilapia	invertebrates	B	AsiCemetery	S	ניר_דויד_בית_קברות	32.5014 N 35.4610 E	14-Aug-2017	15:55	31.67	3917		2.04	9.7	8.6	A	A	pristine
 AS84	AA	AA	Astatotilapia flaviijosephi	Haplochrominae	Swab	Astatotilapia	invertebrates	B	AsiCemetery	S	ניר_דויד_בית_קברות	32.5014 N 35.4610 E	14-Aug-2017	15:55	31.67	3917		2.04	9.7	8.6	A	A	pristine
 AS74	AA	AA	Gambusia affinis	Poeciliidae	Swab	Gambusia	invertebrates	B	AsiCemetery	S	ניר_דויד_בית_קברות	32.5014 N 35.4610 E	14-Aug-2017	15:55	31.67	3917		2.04	9.7	8.6	A	A	pristine
-AS79	AA	AA	Mugil liza	Mugilidae	Swab	Mugil	invertebrates	B	AsiCemetery	S	ניר_דויד_בית_קברות	32.5014 N 35.4610 E	14-Aug-2017	15:55	31.67	3917		2.04	9.7	8.6	A	A	pristine
-AS80	AA	AA	Mugil liza	Mugilidae	Swab	Mugil	invertebrates	B	AsiCemetery	S	ניר_דויד_בית_קברות	32.5014 N 35.4610 E	14-Aug-2017	15:55	31.67	3917		2.04	9.7	8.6	A	A	pristine
-AS81	AA	AA	Mugil liza	Mugilidae	Swab	Mugil	invertebrates	B	AsiCemetery	S	ניר_דויד_בית_קברות	32.5014 N 35.4610 E	14-Aug-2017	15:55	31.67	3917		2.04	9.7	8.6	A	A	pristine
+AS79	AA	AA	Mugil	Mugilidae	Swab	Mugil	invertebrates	B	AsiCemetery	S	ניר_דויד_בית_קברות	32.5014 N 35.4610 E	14-Aug-2017	15:55	31.67	3917		2.04	9.7	8.6	A	A	pristine
+AS80	AA	AA	Mugil	Mugilidae	Swab	Mugil	invertebrates	B	AsiCemetery	S	ניר_דויד_בית_קברות	32.5014 N 35.4610 E	14-Aug-2017	15:55	31.67	3917		2.04	9.7	8.6	A	A	pristine
+AS81	AA	AA	Mugil	Mugilidae	Swab	Mugil	invertebrates	B	AsiCemetery	S	ניר_דויד_בית_קברות	32.5014 N 35.4610 E	14-Aug-2017	15:55	31.67	3917		2.04	9.7	8.6	A	A	pristine
 AS85	AA	AA	Sarotherodon  galilaeus	Tilapiinae	Swab	Sarotherodon	filter_feeder	B	AsiCemetery	S	ניר_דויד_בית_קברות	32.5014 N 35.4610 E	14-Aug-2017	15:55	31.67	3917		2.04	9.7	8.6	A	A	pristine
 AS86	AA	AA	Sarotherodon  galilaeus	Tilapiinae	Swab	Sarotherodon	filter_feeder	B	AsiCemetery	S	ניר_דויד_בית_קברות	32.5014 N 35.4610 E	14-Aug-2017	15:55	31.67	3917		2.04	9.7	8.6	A	A	pristine
 AS87	AA	AA	Sarotherodon  galilaeus	Tilapiinae	Swab	Sarotherodon	filter_feeder	B	AsiCemetery	S	ניר_דויד_בית_קברות	32.5014 N 35.4610 E	14-Aug-2017	15:55	31.67	3917		2.04	9.7	8.6	A	A	pristine
@@ -49,10 +49,10 @@ AS102	AA	AA	Oxynoemacheilus insignis	Nemacheilidae	Swab	Oxynoemacheilus insignis
 AS103	AA	AA	Oxynoemacheilus insignis	Nemacheilidae	Swab	Oxynoemacheilus insignis	invertebrates	B	BaniasReserveUp	N	שמורת_באניאס_בריכות	33.2481 N 35.6938 E	31-Aug-2017	10:00	15.38	428	350	0.21		9	H.0.1	H	pristine
 AS104	AA	AA	Oxynoemacheilus insignis	Nemacheilidae	Swab	Oxynoemacheilus insignis	invertebrates	B	BaniasReserveUp	N	שמורת_באניאס_בריכות	33.2481 N 35.6938 E	31-Aug-2017	10:00	15.38	428	350	0.21		9	H.0.1	H	pristine
 AS109BC18	AA	AA	Water	Water	Water	W	Water	Water	BaniasReserveUp	N	שמורת_באניאס_בריכות	33.2481 N 35.6938 E	31-Aug-2017	10:00	15.38	428	350	0.21		9	H.0.1	H	pristine
-AS237	AA	AA	Tilapia zillii	Tilapiinae	Swab	Tilapia	plants	C	GomeJunction	N	ירדן_תעלה_מערבית_צומת_גומא	33.1697 N 35.5712 E	2-Nov-2017	11:00	20.0	477	432	0.23	5		J.3	J	interrupted
-AS238	AA	AA	Tilapia zillii	Tilapiinae	Swab	Tilapia	plants	C	GomeJunction	N	ירדן_תעלה_מערבית_צומת_גומא	33.1697 N 35.5712 E	2-Nov-2017	11:00	20.0	477	432	0.23	5		J.3	J	interrupted
-AS239	AA	AA	Tilapia zillii	Tilapiinae	Swab	Tilapia	plants	C	GomeJunction	N	ירדן_תעלה_מערבית_צומת_גומא	33.1697 N 35.5712 E	2-Nov-2017	11:00	20.0	477	432	0.23	5		J.3	J	interrupted
-AS240	AA	AA	Tilapia zillii	Tilapiinae	Swab	Tilapia	plants	C	GomeJunction	N	ירדן_תעלה_מערבית_צומת_גומא	33.1697 N 35.5712 E	2-Nov-2017	11:00	20.0	477	432	0.23	5		J.3	J	interrupted
+AS237	AA	AA	Coptodon zillii	Tilapiinae	Swab	Tilapia	plants	C	GomeJunction	N	ירדן_תעלה_מערבית_צומת_גומא	33.1697 N 35.5712 E	2-Nov-2017	11:00	20.0	477	432	0.23	5		J.3	J	interrupted
+AS238	AA	AA	Coptodon zillii	Tilapiinae	Swab	Tilapia	plants	C	GomeJunction	N	ירדן_תעלה_מערבית_צומת_גומא	33.1697 N 35.5712 E	2-Nov-2017	11:00	20.0	477	432	0.23	5		J.3	J	interrupted
+AS239	AA	AA	Coptodon zillii	Tilapiinae	Swab	Tilapia	plants	C	GomeJunction	N	ירדן_תעלה_מערבית_צומת_גומא	33.1697 N 35.5712 E	2-Nov-2017	11:00	20.0	477	432	0.23	5		J.3	J	interrupted
+AS240	AA	AA	Coptodon zillii	Tilapiinae	Swab	Tilapia	plants	C	GomeJunction	N	ירדן_תעלה_מערבית_צומת_גומא	33.1697 N 35.5712 E	2-Nov-2017	11:00	20.0	477	432	0.23	5		J.3	J	interrupted
 AS244	AA	AA	Pseudophoxinus kervillei	Cyprinidae	Swab	Pseudophoxinus	invertebrates	B	GomeJunction	N	ירדן_תעלה_מערבית_צומת_גומא	33.1697 N 35.5712 E	2-Nov-2017	11:00	20.0	477	432	0.23	5		J.3	J	interrupted
 AS245	AA	AA	Pseudophoxinus kervillei	Cyprinidae	Swab	Pseudophoxinus	invertebrates	B	GomeJunction	N	ירדן_תעלה_מערבית_צומת_גומא	33.1697 N 35.5712 E	2-Nov-2017	11:00	20.0	477	432	0.23	5		J.3	J	interrupted
 AS246	AA	AA	Pseudophoxinus kervillei	Cyprinidae	Swab	Pseudophoxinus	invertebrates	B	GomeJunction	N	ירדן_תעלה_מערבית_צומת_גומא	33.1697 N 35.5712 E	2-Nov-2017	11:00	20.0	477	432	0.23	5		J.3	J	interrupted
@@ -82,7 +82,7 @@ AS131	AA	AA	Capoeta damascina	Cyprinidae	Swab	Capoeta	aufwuchs	C	InsideKtzinim	N
 AS132	AA	AA	Capoeta damascina	Cyprinidae	Swab	Capoeta	aufwuchs	C	InsideKtzinim	N	בריכת_קצינים	33.2457 N 35.6891 E	31-Aug-2017	12:38	17.2	441	376	0.21			H.1	H	pristine
 AS133	AA	AA	Capoeta damascina	Cyprinidae	Swab	Capoeta	aufwuchs	C	InsideKtzinim	N	בריכת_קצינים	33.2457 N 35.6891 E	31-Aug-2017	12:38	17.2	441	376	0.21			H.1	H	pristine
 AS134	AA	AA	Capoeta damascina	Cyprinidae	Swab	Capoeta	aufwuchs	C	InsideKtzinim	N	בריכת_קצינים	33.2457 N 35.6891 E	31-Aug-2017	12:38	17.2	441	376	0.21			H.1	H	pristine
-AS127	AA	AA	Garra rufa	Cyprinidae	Swab	Garra rufa	aufwuchs	C	InsideKtzinim	N	בריכת_קצינים	33.2457 N 35.6891 E	31-Aug-2017	12:38	17.2	441	376	0.21			H.1	H	pristine
+AS127	AA	AA	Garra jordanica	Cyprinidae	Swab	Garra jordanica	aufwuchs	C	InsideKtzinim	N	בריכת_קצינים	33.2457 N 35.6891 E	31-Aug-2017	12:38	17.2	441	376	0.21			H.1	H	pristine
 AS126BC20	AA	AA	Water	Water	Water	W	Water	Water	InsideKtzinim	N	בריכת_קצינים	33.2457 N 35.6891 E	31-Aug-2017	12:38	17.2	441	376	0.21			H.1	H	pristine
 AS201	AA	AA	Water	Water	Water	W	Water	Water	JordanPark	N	ירדן_כניסת_נחל_דישון	33.0485 N 35.6256 E	2-Nov-2017	14:00	18.8	410	360	0.2	8		NTC	N	pristine
 AS214	AA	AA	Capoeta damascina	Cyprinidae	Swab	Capoeta	aufwuchs	C	lehavotHabashan	N	ירדן_גשר_להבות_הבשן	33.1470 N 35.6287 E	2-Nov-2017	07:30	17.0	332	282	0.16	8.37	7.47	J.1	J	pristine
@@ -93,7 +93,7 @@ AS210	AA	AA	Oreochromis aureus	Tilapiinae	Swab	Oreochromis	phytoplankton	C	lehav
 AS211	AA	AA	Oreochromis aureus	Tilapiinae	Swab	Oreochromis	phytoplankton	C	lehavotHabashan	N	ירדן_גשר_להבות_הבשן	33.1470 N 35.6287 E	2-Nov-2017	07:30	17.0	332	282	0.16	8.37	7.47	J.1	J	pristine
 AS212	AA	AA	Oreochromis aureus	Tilapiinae	Swab	Oreochromis	phytoplankton	C	lehavotHabashan	N	ירדן_גשר_להבות_הבשן	33.1470 N 35.6287 E	2-Nov-2017	07:30	17.0	332	282	0.16	8.37	7.47	J.1	J	pristine
 AS213	AA	AA	Oreochromis aureus	Tilapiinae	Swab	Oreochromis	phytoplankton	C	lehavotHabashan	N	ירדן_גשר_להבות_הבשן	33.1470 N 35.6287 E	2-Nov-2017	07:30	17.0	332	282	0.16	8.37	7.47	J.1	J	pristine
-AS209	AA	AA	Tilapia zillii	Tilapiinae	Swab	Tilapia	plants	C	lehavotHabashan	N	ירדן_גשר_להבות_הבשן	33.1470 N 35.6287 E	2-Nov-2017	07:30	17.0	332	282	0.16	8.37	7.47	J.1	J	pristine
+AS209	AA	AA	Coptodon zillii	Tilapiinae	Swab	Tilapia	plants	C	lehavotHabashan	N	ירדן_גשר_להבות_הבשן	33.1470 N 35.6287 E	2-Nov-2017	07:30	17.0	332	282	0.16	8.37	7.47	J.1	J	pristine
 AS218	AA	AA	Carasobarbus canis	Cyprinidae	Swab	Carasobarbus canis	invertebrates	B	lehavotHabashan	N	ירדן_גשר_להבות_הבשן	33.1470 N 35.6287 E	2-Nov-2017	07:30	17.0	332	282	0.16	8.37	7.47	J.1	J	pristine
 AS219	AA	AA	Carasobarbus canis	Cyprinidae	Swab	Carasobarbus canis	invertebrates	B	lehavotHabashan	N	ירדן_גשר_להבות_הבשן	33.1470 N 35.6287 E	2-Nov-2017	07:30	17.0	332	282	0.16	8.37	7.47	J.1	J	pristine
 AS220	AA	AA	Carasobarbus canis	Cyprinidae	Swab	Carasobarbus canis	invertebrates	B	lehavotHabashan	N	ירדן_גשר_להבות_הבשן	33.1470 N 35.6287 E	2-Nov-2017	07:30	17.0	332	282	0.16	8.37	7.47	J.1	J	pristine
@@ -116,11 +116,11 @@ AS173	AA	AA	Capoeta damascina	Cyprinidae	Swab	Capoeta	aufwuchs	C	SnirDagAlHadanU
 AS174	AA	AA	Capoeta damascina	Cyprinidae	Swab	Capoeta	aufwuchs	C	SnirDagAlHadanUpStrerm	N	שניר_שמורה_מעל_יוקי	33.2308 N 35.6208 E	1-Oct-2017	10:30	20.15	309	280	0.15	9.9	6.6	S.2	S	pristine
 AS175	AA	AA	Capoeta damascina	Cyprinidae	Swab	Capoeta	aufwuchs	C	SnirDagAlHadanUpStrerm	N	שניר_שמורה_מעל_יוקי	33.2308 N 35.6208 E	1-Oct-2017	10:30	20.15	309	280	0.15	9.9	6.6	S.2	S	pristine
 AS176	AA	AA	Capoeta damascina	Cyprinidae	Swab	Capoeta	aufwuchs	C	SnirDagAlHadanUpStrerm	N	שניר_שמורה_מעל_יוקי	33.2308 N 35.6208 E	1-Oct-2017	10:30	20.15	309	280	0.15	9.9	6.6	S.2	S	pristine
-AS167	AA	AA	Garra rufa	Cyprinidae	Swab	Garra rufa	aufwuchs	C	SnirDagAlHadanUpStrerm	N	שניר_שמורה_מעל_יוקי	33.2308 N 35.6208 E	1-Oct-2017	10:30	20.15	309	280	0.15	9.9	6.6	S.2	S	pristine
-AS168	AA	AA	Garra rufa	Cyprinidae	Swab	Garra rufa	aufwuchs	C	SnirDagAlHadanUpStrerm	N	שניר_שמורה_מעל_יוקי	33.2308 N 35.6208 E	1-Oct-2017	10:30	20.15	309	280	0.15	9.9	6.6	S.2	S	pristine
-AS169	AA	AA	Garra rufa	Cyprinidae	Swab	Garra rufa	aufwuchs	C	SnirDagAlHadanUpStrerm	N	שניר_שמורה_מעל_יוקי	33.2308 N 35.6208 E	1-Oct-2017	10:30	20.15	309	280	0.15	9.9	6.6	S.2	S	pristine
-AS170	AA	AA	Garra rufa	Cyprinidae	Swab	Garra rufa	aufwuchs	C	SnirDagAlHadanUpStrerm	N	שניר_שמורה_מעל_יוקי	33.2308 N 35.6208 E	1-Oct-2017	10:30	20.15	309	280	0.15	9.9	6.6	S.2	S	pristine
-AS171	AA	AA	Garra rufa	Cyprinidae	Swab	Garra rufa	aufwuchs	C	SnirDagAlHadanUpStrerm	N	שניר_שמורה_מעל_יוקי	33.2308 N 35.6208 E	1-Oct-2017	10:30	20.15	309	280	0.15	9.9	6.6	S.2	S	pristine
+AS167	AA	AA	Garra jordanica	Cyprinidae	Swab	Garra jordanica	aufwuchs	C	SnirDagAlHadanUpStrerm	N	שניר_שמורה_מעל_יוקי	33.2308 N 35.6208 E	1-Oct-2017	10:30	20.15	309	280	0.15	9.9	6.6	S.2	S	pristine
+AS168	AA	AA	Garra jordanica	Cyprinidae	Swab	Garra jordanica	aufwuchs	C	SnirDagAlHadanUpStrerm	N	שניר_שמורה_מעל_יוקי	33.2308 N 35.6208 E	1-Oct-2017	10:30	20.15	309	280	0.15	9.9	6.6	S.2	S	pristine
+AS169	AA	AA	Garra jordanica	Cyprinidae	Swab	Garra jordanica	aufwuchs	C	SnirDagAlHadanUpStrerm	N	שניר_שמורה_מעל_יוקי	33.2308 N 35.6208 E	1-Oct-2017	10:30	20.15	309	280	0.15	9.9	6.6	S.2	S	pristine
+AS170	AA	AA	Garra jordanica	Cyprinidae	Swab	Garra jordanica	aufwuchs	C	SnirDagAlHadanUpStrerm	N	שניר_שמורה_מעל_יוקי	33.2308 N 35.6208 E	1-Oct-2017	10:30	20.15	309	280	0.15	9.9	6.6	S.2	S	pristine
+AS171	AA	AA	Garra jordanica	Cyprinidae	Swab	Garra jordanica	aufwuchs	C	SnirDagAlHadanUpStrerm	N	שניר_שמורה_מעל_יוקי	33.2308 N 35.6208 E	1-Oct-2017	10:30	20.15	309	280	0.15	9.9	6.6	S.2	S	pristine
 AS165	AA	AA	Acanthobrama lissneri	Cyprinidae	Swab	Acanthobrama lissneri	invertebrates	B	SnirDagAlHadanUpStrerm	N	שניר_שמורה_מעל_יוקי	33.2308 N 35.6208 E	1-Oct-2017	10:30	20.15	309	280	0.15	9.9	6.6	S.2	S	pristine
 AS166	AA	AA	Acanthobrama lissneri	Cyprinidae	Swab	Acanthobrama lissneri	invertebrates	B	SnirDagAlHadanUpStrerm	N	שניר_שמורה_מעל_יוקי	33.2308 N 35.6208 E	1-Oct-2017	10:30	20.15	309	280	0.15	9.9	6.6	S.2	S	pristine
 AS164	AA	AA	Carasobarbus canis	Cyprinidae	Swab	Carasobarbus canis	invertebrates	B	SnirDagAlHadanUpStrerm	N	שניר_שמורה_מעל_יוקי	33.2308 N 35.6208 E	1-Oct-2017	10:30	20.15	309	280	0.15	9.9	6.6	S.2	S	pristine
@@ -137,10 +137,10 @@ AS150	AA	AA	Capoeta damascina	Cyprinidae	Swab	Capoeta	aufwuchs	C	SnirHydrometric
 AS151	AA	AA	Capoeta damascina	Cyprinidae	Swab	Capoeta	aufwuchs	C	SnirHydrometricMaayanBaruch	N	שניר_הידרומטרית_מעיין_ברוך	33.2411 N 35.6249 E	1-Oct-2017	15:21	23.0	322	310	0.15	9.5	6.75	S.1	S	pristine
 AS152	AA	AA	Capoeta damascina	Cyprinidae	Swab	Capoeta	aufwuchs	C	SnirHydrometricMaayanBaruch	N	שניר_הידרומטרית_מעיין_ברוך	33.2411 N 35.6249 E	1-Oct-2017	15:21	23.0	322	310	0.15	9.5	6.75	S.1	S	pristine
 AS153	AA	AA	Capoeta damascina	Cyprinidae	Swab	Capoeta	aufwuchs	C	SnirHydrometricMaayanBaruch	N	שניר_הידרומטרית_מעיין_ברוך	33.2411 N 35.6249 E	1-Oct-2017	15:21	23.0	322	310	0.15	9.5	6.75	S.1	S	pristine
-AS154	AA	AA	Garra rufa	Cyprinidae	Swab	Garra rufa	aufwuchs	C	SnirHydrometricMaayanBaruch	N	שניר_הידרומטרית_מעיין_ברוך	33.2411 N 35.6249 E	1-Oct-2017	15:21	23.0	322	310	0.15	9.5	6.75	S.1	S	pristine
-AS155	AA	AA	Garra rufa	Cyprinidae	Swab	Garra rufa	aufwuchs	C	SnirHydrometricMaayanBaruch	N	שניר_הידרומטרית_מעיין_ברוך	33.2411 N 35.6249 E	1-Oct-2017	15:21	23.0	322	310	0.15	9.5	6.75	S.1	S	pristine
-AS156	AA	AA	Garra rufa	Cyprinidae	Swab	Garra rufa	aufwuchs	C	SnirHydrometricMaayanBaruch	N	שניר_הידרומטרית_מעיין_ברוך	33.2411 N 35.6249 E	1-Oct-2017	15:21	23.0	322	310	0.15	9.5	6.75	S.1	S	pristine
-AS157	AA	AA	Garra rufa	Cyprinidae	Swab	Garra rufa	aufwuchs	C	SnirHydrometricMaayanBaruch	N	שניר_הידרומטרית_מעיין_ברוך	33.2411 N 35.6249 E	1-Oct-2017	15:21	23.0	322	310	0.15	9.5	6.75	S.1	S	pristine
+AS154	AA	AA	Garra jordanica	Cyprinidae	Swab	Garra jordanica	aufwuchs	C	SnirHydrometricMaayanBaruch	N	שניר_הידרומטרית_מעיין_ברוך	33.2411 N 35.6249 E	1-Oct-2017	15:21	23.0	322	310	0.15	9.5	6.75	S.1	S	pristine
+AS155	AA	AA	Garra jordanica	Cyprinidae	Swab	Garra jordanica	aufwuchs	C	SnirHydrometricMaayanBaruch	N	שניר_הידרומטרית_מעיין_ברוך	33.2411 N 35.6249 E	1-Oct-2017	15:21	23.0	322	310	0.15	9.5	6.75	S.1	S	pristine
+AS156	AA	AA	Garra jordanica	Cyprinidae	Swab	Garra jordanica	aufwuchs	C	SnirHydrometricMaayanBaruch	N	שניר_הידרומטרית_מעיין_ברוך	33.2411 N 35.6249 E	1-Oct-2017	15:21	23.0	322	310	0.15	9.5	6.75	S.1	S	pristine
+AS157	AA	AA	Garra jordanica	Cyprinidae	Swab	Garra jordanica	aufwuchs	C	SnirHydrometricMaayanBaruch	N	שניר_הידרומטרית_מעיין_ברוך	33.2411 N 35.6249 E	1-Oct-2017	15:21	23.0	322	310	0.15	9.5	6.75	S.1	S	pristine
 AS159	AA	AA	Carasobarbus canis	Cyprinidae	Swab	Carasobarbus canis	invertebrates	B	SnirHydrometricMaayanBaruch	N	שניר_הידרומטרית_מעיין_ברוך	33.2411 N 35.6249 E	1-Oct-2017	15:21	23.0	322	310	0.15	9.5	6.75	S.1	S	pristine
 AS160	AA	AA	Carasobarbus canis	Cyprinidae	Swab	Carasobarbus canis	invertebrates	B	SnirHydrometricMaayanBaruch	N	שניר_הידרומטרית_מעיין_ברוך	33.2411 N 35.6249 E	1-Oct-2017	15:21	23.0	322	310	0.15	9.5	6.75	S.1	S	pristine
 AS161	AA	AA	Carasobarbus canis	Cyprinidae	Swab	Carasobarbus canis	invertebrates	B	SnirHydrometricMaayanBaruch	N	שניר_הידרומטרית_מעיין_ברוך	33.2411 N 35.6249 E	1-Oct-2017	15:21	23.0	322	310	0.15	9.5	6.75	S.1	S	pristine
@@ -180,9 +180,9 @@ AS70	AA	AA	OH	Tilapiinae	Swab	tilapine hybrid	phytoplankton	C	TelSaharonSpring	S
 AS71	AA	AA	OH	Tilapiinae	Swab	tilapine hybrid	phytoplankton	C	TelSaharonSpring	S	תל_סהרון	32.4501 N 35.5491 E	14-Aug-2017	07:10	30.44	3080	3394	1.59	7.39	7.48	T.2	T	pristine
 AS72	AA	AA	OH	Tilapiinae	Swab	tilapine hybrid	phytoplankton	C	TelSaharonSpring	S	תל_סהרון	32.4501 N 35.5491 E	14-Aug-2017	07:10	30.44	3080	3394	1.59	7.39	7.48	T.2	T	pristine
 AS73	AA	AA	OH	Tilapiinae	Swab	tilapine hybrid	phytoplankton	C	TelSaharonSpring	S	תל_סהרון	32.4501 N 35.5491 E	14-Aug-2017	07:10	30.44	3080	3394	1.59	7.39	7.48	T.2	T	pristine
-AS68	AA	AA	Tilapia zillii	Tilapiinae	Swab	Tilapia	plants	C	TelSaharonSpring	S	תל_סהרון	32.4501 N 35.5491 E	14-Aug-2017	07:10	30.44	3080	3394	1.59	7.39	7.48	T.2	T	pristine
-AS69	AA	AA	Tilapia zillii	Tilapiinae	Swab	Tilapia	plants	C	TelSaharonSpring	S	תל_סהרון	32.4501 N 35.5491 E	14-Aug-2017	07:10	30.44	3080	3394	1.59	7.39	7.48	T.2	T	pristine
-AS67	AA	AA	Tilapia zillii	Tilapiinae	Swab	Tilapia	plants	C	TelSaharonSpring	S	תל_סהרון	32.4501 N 35.5491 E	14-Aug-2017	07:10	30.44	3080	3394	1.59	7.39	7.48	T.2	T	pristine
+AS68	AA	AA	Coptodon zillii	Tilapiinae	Swab	Tilapia	plants	C	TelSaharonSpring	S	תל_סהרון	32.4501 N 35.5491 E	14-Aug-2017	07:10	30.44	3080	3394	1.59	7.39	7.48	T.2	T	pristine
+AS69	AA	AA	Coptodon zillii	Tilapiinae	Swab	Tilapia	plants	C	TelSaharonSpring	S	תל_סהרון	32.4501 N 35.5491 E	14-Aug-2017	07:10	30.44	3080	3394	1.59	7.39	7.48	T.2	T	pristine
+AS67	AA	AA	Coptodon zillii	Tilapiinae	Swab	Tilapia	plants	C	TelSaharonSpring	S	תל_סהרון	32.4501 N 35.5491 E	14-Aug-2017	07:10	30.44	3080	3394	1.59	7.39	7.48	T.2	T	pristine
 AS141	AA	AA	Oxynoemacheilus insignis	Nemacheilidae	Swab	Oxynoemacheilus insignis	invertebrates	B	TelSaharonSpring	S	תל_סהרון	32.4501 N 35.5491 E	14-Aug-2017	07:10	30.44	3080	3394	1.59	7.39	7.48	T.2	T	pristine
 AS142	AA	AA	Oxynoemacheilus insignis	Nemacheilidae	Swab	Oxynoemacheilus insignis	invertebrates	B	TelSaharonSpring	S	תל_סהרון	32.4501 N 35.5491 E	14-Aug-2017	07:10	30.44	3080	3394	1.59	7.39	7.48	T.2	T	pristine
 AS143	AA	AA	Oxynoemacheilus insignis	Nemacheilidae	Swab	Oxynoemacheilus insignis	invertebrates	B	TelSaharonSpring	S	תל_סהרון	32.4501 N 35.5491 E	14-Aug-2017	07:10	30.44	3080	3394	1.59	7.39	7.48	T.2	T	pristine
