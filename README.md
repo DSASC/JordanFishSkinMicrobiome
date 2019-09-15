@@ -10,5 +10,5 @@ by
 Yaron Krotman, Timur Yergaliyev, Rivka Shani Alexander, Yosef Avrahami and Amir Szitenberg  
 Dead Sea and Arava Science Center, Dead Sea Branch.
   
-**Raw data**: Available in the `raw data` directory and under BioProect PRJNA560003.  
+**Raw data**: Available in the `raw_reads` directory and under BioProect PRJNA560003.  
 **Workflow**: The analysis, from raw data to figures, is layed out in `script.ipynb` [nbviewer](https://bit.ly/2z7teFm).  
