@@ -12,3 +12,4 @@ Dead Sea and Arava Science Center, Dead Sea Branch.
   
 **Raw data**: Available in the `raw_reads` directory and under BioProect PRJNA560003.  
 **Workflow**: The analysis, from raw data to figures, is layed out in `script.ipynb` [nbviewer](https://bit.ly/2z7teFm).  
+**Supplementary analyses**: Avilable in `linear_vs_nonlinear.ipynb` [nbviewer](https://bit.ly/2rf396V) and in `test_alpha_diversity_and_rel_abund_group_significance.ipynb` [nbviewer](https://bit.ly/2M5P5nm)
